@@ -4,7 +4,8 @@ Frontend repo for Academy Java bootcamp final project, an application for photos
 Frontend is done using React. As a style we used Material UI solutions. Suncalc, Mapbox, React.pdf and moment.js were also utilized.
 
 To run the show:
+```
 npm install
 npm start
-
+```
 Backend link: https://github.com/SamuliSorjonen/final-project-backend.git
